@@ -1,0 +1,5 @@
+Class frascoDulce {
+    String sabor;
+    float cantidad;
+    String fechaEnvasado;
+}

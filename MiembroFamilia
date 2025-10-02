@@ -1,0 +1,4 @@
+Class MiembroFamilia {
+    String nombre;
+    String parentesco;
+}

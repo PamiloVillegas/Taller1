@@ -1,4 +1,4 @@
-import java.util.Scanner;
+gitimport java.util.Scanner;
 
 public class Main{
 	public static void main(String[] args) {
@@ -13,7 +13,6 @@ public class Main{
         CompararNumeros.resolver();
         ClasificarEdad.resolver();
         ValidarNumero.resolver();
-    }
 }
 
 class Ejercicio1 {
@@ -198,3 +197,33 @@ class ValidarNumero {
         scanner.close();
     }
 }
+
+Class Main {
+    public satatic void main (String [] args) {
+
+    }
+
+    
+}
+class Cuenta {
+    static String numCuenta;
+    double saldo;
+    String tipo;
+}
+
+class Persona {
+    String name;
+    String genero;
+    int edad;
+}
+
+class Revista {
+    String titulo;
+    int pagina;
+    double precio;
+    boolean enOferta;
+}
+
+
+
+
